@@ -1,0 +1,10 @@
+let userName = "Dhivyabharathi";
+let organization = "HCL Technologies";
+let contactNumber = 1234567890;
+let knowAutomation = false;
+let usePlaywright = null;
+console.log("User Name: " + userName);
+console.log("Organization: " + organization);
+console.log("Contact Number: " + contactNumber);
+console.log("Knows Automation: " + knowAutomation);
+console.log("Use Playwright: " + usePlaywright);
